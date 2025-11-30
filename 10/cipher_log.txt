@@ -1,0 +1,92 @@
+нояб. 05, 2025 7:34:43 PM StreamCipher main
+INFO: Початок роботи програми шифрування...
+нояб. 05, 2025 7:34:43 PM StreamCipher main
+FINE: Початок шифрування файлу text.txt
+нояб. 05, 2025 7:34:43 PM StreamCipher main
+SEVERE: Файл не знайдено: text.txt (No such file or directory)
+нояб. 05, 2025 7:34:43 PM StreamCipher main
+INFO: Роботу програми завершено.
+нояб. 05, 2025 7:36:17 PM StreamCipher main
+INFO: Початок роботи програми шифрування...
+нояб. 05, 2025 7:36:17 PM StreamCipher main
+FINE: Початок шифрування файлу text.txt
+нояб. 05, 2025 7:36:17 PM StreamCipher main
+INFO: Файл успішно зашифровано у: encrypted.txt
+нояб. 05, 2025 7:36:17 PM StreamCipher main
+FINE: Початок дешифрування файлу encrypted.txt
+нояб. 05, 2025 7:36:17 PM StreamCipher main
+INFO: Файл успішно розшифровано у: decrypted.txt
+нояб. 05, 2025 7:36:17 PM StreamCipher main
+INFO: Роботу програми завершено.
+нояб. 05, 2025 7:50:21 PM StreamCipher main
+INFO: ??????? ?????? ???????? ??????????...
+нояб. 05, 2025 7:50:21 PM StreamCipher main
+FINE: ??????? ?????????? ?????: 2
+нояб. 05, 2025 7:50:21 PM StreamCipher main
+SEVERE: ???? ?? ????????: 2 (No such file or directory)
+нояб. 05, 2025 7:50:21 PM StreamCipher main
+INFO: ?????? ???????? ?????????.
+нояб. 05, 2025 7:55:19 PM StreamCipher main
+INFO: ??????? ?????? ???????? ??????????...
+нояб. 05, 2025 7:55:19 PM StreamCipher main
+FINE: ??????? ?????????? ?????: 2
+нояб. 05, 2025 7:55:19 PM StreamCipher main
+INFO: ???? ??????? ??????????? ?: 2
+нояб. 05, 2025 7:55:19 PM StreamCipher main
+FINE: ??????? ???????????? ?????: 2
+нояб. 05, 2025 7:55:19 PM StreamCipher main
+INFO: ???? ??????? ???????????? ?: 2
+нояб. 05, 2025 7:55:19 PM StreamCipher main
+INFO: ?????? ???????? ?????????.
+нояб. 05, 2025 10:08:28 PM StreamCipher main
+INFO: Starting encryption program...
+нояб. 05, 2025 10:08:28 PM StreamCipher main
+FINE: Starting encryption of file: 2.txt
+нояб. 05, 2025 10:08:28 PM StreamCipher main
+SEVERE: File not found: 2.txt (No such file or directory)
+нояб. 05, 2025 10:08:28 PM StreamCipher main
+INFO: Program execution finished.
+нояб. 06, 2025 8:37:47 AM StreamCipher main
+INFO: Початок роботи програми шифрування...
+нояб. 06, 2025 8:37:47 AM StreamCipher main
+FINE: Початок шифрування файлу: text.txt
+нояб. 06, 2025 8:37:47 AM StreamCipher main
+INFO: Файл успішно зашифровано у: enc.txt
+нояб. 06, 2025 8:37:47 AM StreamCipher main
+FINE: Початок дешифрування файлу: enc.txt
+нояб. 06, 2025 8:37:47 AM StreamCipher main
+INFO: Файл успішно розшифровано у: decr.txt
+нояб. 06, 2025 8:37:47 AM StreamCipher main
+INFO: Роботу програми завершено.
+нояб. 06, 2025 8:47:35 AM StreamCipher main
+INFO: Початок роботи програми шифрування...
+нояб. 06, 2025 8:47:35 AM StreamCipher main
+FINE: Початок шифрування файлу: text.txt
+нояб. 06, 2025 8:47:35 AM StreamCipher main
+INFO: Файл успішно зашифровано у: enc.txt
+нояб. 06, 2025 8:47:35 AM StreamCipher main
+FINE: Початок дешифрування файлу: enc.txt
+нояб. 06, 2025 8:47:35 AM StreamCipher main
+INFO: Файл успішно розшифровано у: decr.txt
+нояб. 06, 2025 8:47:35 AM StreamCipher main
+INFO: Роботу програми завершено.
+нояб. 06, 2025 9:01:48 AM StreamCipher main
+INFO: Starting encryption program...
+нояб. 06, 2025 9:01:48 AM StreamCipher main
+FINE: Starting encryption of file: test.txt
+нояб. 06, 2025 9:01:48 AM StreamCipher main
+SEVERE: File not found: test.txt (No such file or directory)
+нояб. 06, 2025 9:01:48 AM StreamCipher main
+INFO: Program execution finished.
+нояб. 06, 2025 9:02:15 AM StreamCipher main
+INFO: Starting encryption program...
+нояб. 06, 2025 9:02:15 AM StreamCipher main
+FINE: Starting encryption of file: text.txt
+нояб. 06, 2025 9:02:15 AM StreamCipher main
+INFO: File successfully encrypted into: enc.txt
+нояб. 06, 2025 9:02:15 AM StreamCipher main
+FINE: Starting decryption of file: enc.txt
+нояб. 06, 2025 9:02:15 AM StreamCipher main
+INFO: File successfully decrypted into: decr.txt
+нояб. 06, 2025 9:02:15 AM StreamCipher main
+INFO: Program execution finished.
